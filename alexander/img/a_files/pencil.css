@@ -1,0 +1,128 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+.page-pencil .gallery-opt .sketch-gallery-view-1 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_notes_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-1 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_notes_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-1 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_notes_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-1 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_notes_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-1 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_notes_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-1 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_notes_small_2x.jpg"); }
+}
+.page-pencil .gallery-opt .sketch-gallery-view-2 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_mail_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-2 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_mail_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-2 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_mail_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-2 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_mail_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-2 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_mail_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-2 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_mail_small_2x.jpg"); }
+}
+.page-pencil .gallery-opt .sketch-gallery-view-3 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_paper_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-3 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_paper_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-3 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_paper_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-3 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_paper_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-3 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_paper_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-3 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_paper_small_2x.jpg"); }
+}
+.page-pencil .gallery-opt .sketch-gallery-view-4 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_comp_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-4 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_comp_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-4 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_comp_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-4 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_comp_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-4 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_comp_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-4 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_comp_small_2x.jpg"); }
+}
+.page-pencil .gallery-opt .sketch-gallery-view-5 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_pixel_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-5 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_pixel_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-5 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_pixel_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-5 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_pixel_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-pencil .gallery-opt .sketch-gallery-view-5 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_pixel_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-pencil .gallery-opt .sketch-gallery-view-5 { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/app_opt_pixel_small_2x.jpg"); }
+}
+
+.page-pencil .image-new-smart-keyboard { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/accessories_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .page-pencil .image-new-smart-keyboard { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/accessories_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .page-pencil .image-new-smart-keyboard { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/accessories_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-pencil .image-new-smart-keyboard { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/accessories_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .page-pencil .image-new-smart-keyboard { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/accessories_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-pencil .image-new-smart-keyboard { background-image:url("http://images.apple.com/es/apple-pencil/images/pencil/accessories_small_2x.jpg"); }
+}
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+.page-pencil .section-charge .infographic-wrapper .charge-info .badge-hours { width: 95px; }
+
+@media only screen and (max-width: 1068px) {
+    .page-pencil .section-charge .infographic-wrapper .charge-info .badge-seconds {
+        width: 174px;
+        margin-top: -10px
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .page-pencil .section-charge .infographic-wrapper .charge-info .badge-seconds { width: 138px; margin-right: 0; }
+    .page-pencil .section-charge .infographic-wrapper .charge-info .badge-hours { width: 80px; }
+}
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/
