@@ -12,7 +12,7 @@ header{
 body{
 background: url(http://3.bp.blogspot.com/-VLLF3FsrZ9M/VYwQyJBs6aI/AAAAAAAABdg/j2w9UO0BaXw/s1600/du-doan-hinh-anh-iphone-7%252B.jpg);
 background-repeat: no-repeat;
-webkit-background-size: cover;
+-webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
@@ -30,7 +30,6 @@ nav > ul{
     display: table;
     overflow: hidden;
     width: 100%;
-    background: #000;
     position: relative;
 
 }
@@ -72,7 +71,7 @@ nav > ul > li > a span{
     width: 100%;
     left: 0;
     position: absolute;
-    top: -55px;
+    top: -70px;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
