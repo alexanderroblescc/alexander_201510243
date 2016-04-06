@@ -1,8 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Andada);
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
 #banner{
+
     margin-top: 50px;
 }
 body{
+
     font-family: 'Andada', serif;
 }
 #banner img{
@@ -10,6 +14,7 @@ body{
     height: 100%;
 }
 #banner .contenedor{
+
     position:absolute;
     top: 49%;
     left: 27%;
@@ -42,4 +47,56 @@ banner a {
 }
 #banner a:hover{
     background: rgba(51,51,51,0.5);
+}
+#bien{
+    text-align: center;
+    height: 4px;
+    width: 742px;
+    transform: translateX(39%) translateY(1999%);
+}
+#blog .contenedor{
+    text-align: center;
+    height: 4px;
+    width: 742px;
+    transform: translateX(39%) translateY(4999%);
+    display: flex;
+    justify-content: center;
+    flex-wrap: ;
+
+}
+#blog article {
+    margin: 20px;
+}
+#blog img {
+    width: 420px;
+    height: 222px;
+    transform: translateX(6%) translateY(9%);
+}
+#pro .cont{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    position:absolute;
+    top: 71%;
+    left: 35%;
+    transform: translateX(-300%) translateY(2000%);
+     color: #000;
+}
+
+#pro .cont2{
+    font-family: 'EB Garamond', serif;
+    font-size: 35px;
+    position:absolute;
+    top: 11%;
+    left:75%;
+    transform: translateX(-280%) translateY(2090%);
+     color: #000;
+}
+#pro .cont3{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    position:absolute;
+    top: 71%;
+    left: 83%;
+    transform: translateX(-000%) translateY(2000%);
+     color: #000;
 }

@@ -1,9 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:700);
 
 body{
+
+
     font-family: 'Lora', serif;
 }
 header{
+
+align-content: center ; background-color: rgba(181, 182, 158, 1);
+background: rgba(181, 182, 158, 1);
+color: rgba(181, 182, 158, 1);
+    color: black;
     width: 100%;
 }
 
@@ -38,6 +45,13 @@ nav > ul > li > ul{
     display: none;
 }
 nav > ul li a {
+   text-shadow:2px 17px 10px #7a6f7a;
+   transform: rotate(356deg) ;
+   -webkit-transform: rotate(356deg) ;
+   -moz-transform: rotate(356deg) ;
+   -o-transform: rotate(356deg) ;
+   -ms-transform: rotate(356deg) ;
+
     color: #000;
     display: block;
     line-height: 20px;
@@ -52,10 +66,11 @@ nav > ul li a {
     transition: all .3s ease;
 }
 nav > ul > li > ul > li a:hover{
-   background: #5da5a2;
+   background: #fff;
 }
 nav > ul > li > a span{
-    background: #174459;
+
+    background: #000;
     display: block;
     height: 100%;
     width: 100%;
