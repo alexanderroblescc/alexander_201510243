@@ -1,22 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:700);
-*{
-    margin: 0;
-    padding: 0;
-}
+
 body{
     font-family: 'Lora', serif;
 }
 header{
     width: 100%;
 }
-body{
-background: url(http://3.bp.blogspot.com/-VLLF3FsrZ9M/VYwQyJBs6aI/AAAAAAAABdg/j2w9UO0BaXw/s1600/du-doan-hinh-anh-iphone-7%252B.jpg);
-background-repeat: no-repeat;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-}
+
 nav{
     margin: auto;
     width:100%;
@@ -48,7 +38,7 @@ nav > ul > li > ul{
     display: none;
 }
 nav > ul li a {
-    color: #fff;
+    color: #000;
     display: block;
     line-height: 20px;
     padding: 20px;
@@ -89,14 +79,23 @@ nav ul li a .pri{
     background:#37a4d9;
 }
 nav ul li a .se{
-    background:#37a4d9;
+    background:#FFCC99;
 }
 nav ul li a .ter{
-    background:#37a4d9;
+    background:#999999;
 }
 nav ul li a .cuar{
     background:#f25724;
 }
 nav ul li a .qui{
-    background:#37a4d9;
+    background:#FF9966;
+}
+nav ul li a .se{
+    background:#BDB76B;
+}
+nav ul li a .sep{
+    background:#FFA500;
+}
+nav ul li a .oc{
+    background:#FF6666;
 }
