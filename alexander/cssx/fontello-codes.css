@@ -19,3 +19,12 @@
 .icon-monitor:before { content: '\e811'; } /* '' */
 .icon-pinterest:before { content: '\e812'; } /* '' */
 .icon-menu:before { content: '\e813'; } /* '' */
+.icon-video:before { content: '\e814'; } /* '' */
+.icon-info:before { content: '\e815'; } /* '' */
+.icon-macstore:before { content: '\e816'; } /* '' */
+.icon-appstore:before { content: '\e817'; } /* '' */
+.icon-itunes:before { content: '\e818'; } /* '' */
+.icon-whatsapp:before { content: '\e819'; } /* '' */
+.icon-gamepad:before { content: '\e81a'; } /* '' */
+.icon-podcast:before { content: '\e81b'; } /* '' */
+.icon-videocam:before { content: '\e81c'; } /* '' */

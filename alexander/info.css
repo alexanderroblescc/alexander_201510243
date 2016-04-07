@@ -1,0 +1,48 @@
+
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+#info{
+    text-shadow:-3px 23px 6px #faf7fa;
+    transform: translateX(0%) translateY(200%);
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+#info .c {
+    margin: -19px;
+    display: flex;
+    justify-content: center;
+}
+.info-pet{
+    margin: 15px;
+}
+.info-pet img{
+
+font-family: 'EB Garamond', serif;
+    width: 250px;
+    height: 219px;
+    border-radius: 90%;
+    border-bottom: 9px solid ;
+}
+
+footer .cc{
+
+    display: flex;
+}
+.copy{
+     align-content: center;
+     top: 221%;
+    left:76%;
+    transform: translateX(40%) translateY(-1500%);
+    font-size:20px ;
+}
+.ap{
+   align-content: center;
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+}
+.ap a {
+    color: #000;
+    text-decoration: none
+}
